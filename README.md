@@ -1,4 +1,4 @@
-# car_crash_classification
+# Car Crash Classification
 ![Header Image](https://github.com/raylinsoriano/Project_3_Classification/blob/main/Images/chicago-city-lights-at-night.jpg)
 Source: [Burst](https://burst.shopify.com/photos/chicago-city-lights-at-night?q=chicago)
 
